@@ -1,0 +1,25 @@
+# dataset
+data/data-posetrack2018
+
+# deep re-id model
+reid_model/
+
+# openpifpaf predictions
+posetrack2018_openpifpaf/
+
+# bbox folder
+bbox_gallery/
+
+# storage file
+storage/
+
+# modified predictions
+posetrack2018_modified/
+
+# evaluation file 
+# decided to keep the file
+# evaluation/
+
+*.ipynb_checkpoints
+*__pycache__
+*.vscode

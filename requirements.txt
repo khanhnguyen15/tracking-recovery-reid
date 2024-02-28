@@ -1,0 +1,10 @@
+numpy
+torch==1.7
+matplotlib
+pillow
+opencv-python
+pandas
+jupyter
+sklearn
+tqdm
+ipython

@@ -1,0 +1,9 @@
+{
+    "mota": 0.673821931477991,
+    "num_false_positives": 3853,
+    "num_misses": 10546,
+    "num_objects": 45095,
+    "num_switches": 310,
+    "recovered_accuracy": 0.9349908825146893,
+    "true_accuracy": 0.8602275029668007
+}
