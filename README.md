@@ -1,10 +1,10 @@
 ## Online Identity Recovery with Deep Re-Identification
 
-This repo contains the code for 2022 Spring semeter project on "Tracking Recovery with Re-Identification" at [EPFL VITA lab](https://www.epfl.ch/labs/vita/).
+This repo contains the code for 2022 Spring project on "Tracking Recovery with Re-Identification" done at [EPFL VITA lab](https://www.epfl.ch/labs/vita/).
 
 For more information, please refers to the project report and slides, which can be found in [docs](./docs). 
 
-This project implemented a framework that aim to improve the tracking performances of [OpenPifPaf](https://vita-epfl.github.io/openpifpaf/dev/intro.html). It specifically addressed the problems ID assignments in OpenPifPaf and provide a method to to recovers the ID of an unique identity across frames. However, the framework has been extended to generally work with other detection systems.
+This project aims to improve the tracking performances of [OpenPifPaf](https://vita-epfl.github.io/openpifpaf/dev/intro.html). It specifically addressed the problems person-ID assignments in OpenPifPaf and provide a method to recovers the ID of an unique identity across frames. Additionally, the framework implementation is generalized to work with other detection systems.
 
 The project is mainly tested on OpenPifPaf. Please follow the documentation [here](https://openpifpaf.github.io/intro.html) to learn about the package.
 
